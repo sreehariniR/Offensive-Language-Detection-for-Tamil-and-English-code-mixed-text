@@ -9,8 +9,8 @@ tfidf_max_df,0.95
 tfidf_sublinear_tf,True
 selected_model,Logistic Regression
 selected_C,10
-selected_dev_macro_f1,0.43409203047833583
+selected_dev_macro_f1,0.43582638374316457
 logreg_best_C,10
-logreg_best_dev_macro_f1,0.43409203047833583
+logreg_best_dev_macro_f1,0.43582638374316457
 svm_best_C,1
 svm_best_dev_macro_f1,0.431925838483133
