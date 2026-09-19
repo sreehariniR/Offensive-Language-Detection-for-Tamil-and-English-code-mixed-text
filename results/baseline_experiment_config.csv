@@ -1,0 +1,16 @@
+Parameter,Value
+random_seed,42
+train_samples,34898
+dev_samples,4380
+test_samples,4385
+tfidf_ngram_range,"(1, 2)"
+tfidf_min_df,2
+tfidf_max_df,0.95
+tfidf_sublinear_tf,True
+selected_model,Logistic Regression
+selected_C,10
+selected_dev_macro_f1,0.43409203047833583
+logreg_best_C,10
+logreg_best_dev_macro_f1,0.43409203047833583
+svm_best_C,1
+svm_best_dev_macro_f1,0.431925838483133
